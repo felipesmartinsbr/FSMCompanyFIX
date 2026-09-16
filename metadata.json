@@ -1,0 +1,6 @@
+{
+  "name": "FSM Company — Sistema Operacional",
+  "description": "Sistema operacional interno da FSM Company para gestão comercial, prospecção de leads, clientes, projetos, finanças multimoeda (BRL/USD) e catálogo de soluções.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
